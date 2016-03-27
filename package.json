@@ -1,0 +1,19 @@
+{
+  "name": "slmpd-cfs",
+  "version": "1.0.0",
+  "description": "Node lib for reading structured data from the St. Louis Metropolitan Police Department Call for Service list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulzerkel/slmpd-cfs.git"
+  },
+  "author": "Paul Zerkel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulzerkel/slmpd-cfs/issues"
+  },
+  "homepage": "https://github.com/paulzerkel/slmpd-cfs#readme"
+}
