@@ -1,0 +1,9 @@
+{
+	"extends": "mfrinv",
+  "env" : {
+    "mocha": true
+  },
+  "rules": {
+    "no-unused-vars": "off"
+  }
+}
