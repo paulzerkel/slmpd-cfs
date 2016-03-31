@@ -12,7 +12,7 @@ describe('slmpdCfs', () => {
     const htmlPath = path.join(__dirname, '/html/cfs-test.html');
 
     fs.readFile(htmlPath, 'utf8', (err, data) => {
-      if (err) {
+      if(err) {
         throw err;
       }
       html = data;
